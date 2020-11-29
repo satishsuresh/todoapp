@@ -10,9 +10,13 @@
   .card4{
     background-color: black;
   }
-  .card4{
+  .card5{
     background-color:white;
   }
+  .card6{
+    background-color:violet;
+  }
+  
 .card1 {
   background-color:yellow;
   width: 250px;
@@ -48,7 +52,7 @@
 
 .date{
   margin-top: 3.5em;
-  color:white;
+  color:darkmagenta;
   font-weight: 500;
  
 }

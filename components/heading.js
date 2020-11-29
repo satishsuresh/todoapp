@@ -10,8 +10,16 @@ export class Heading extends Component {
         <input className={style.search} type="text" placeholder="Search"/>
      
             </div>
-    </div>
-    </div>
+            </div>
+            
+            <div className={style.col}>
+                <div className="row" >
+            
+                    <div className="col-md-12">
+            </div>
+            </div>
+            </div>
+      </div>
     );
   }
 }
